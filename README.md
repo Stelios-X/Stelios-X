@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **C# .NET**
 
-- 📫 How to reach me <a href="www.linkedin.com/in/robert-angote">LinkedIn</a>
+- 📫 How to reach me **bobbynificent@gmail.com**
 
 - ⚡ Fun fact **I'm a golfer, what can I say? I love the game.**
 
