@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Robert Angote</h1>
 <h3 align="center">A passionate backend Software Engineer. If it's really cool, rest assured I'm working on it!</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
-<p align="left"> <img padding="10px" src="https://komarev.com/ghpvc/?username=stelios-x&label=Profile%20views&color=0e75b6&style=flat" alt="stelios-x" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stelios-x&label=Profile%20views&color=0e75b6&style=flat" alt="stelios-x" /> </p>
 
 - 🔭 I’m currently working on [E-Commerce App](https://github.com/Stelios-X/Bulky_MVC)
 
