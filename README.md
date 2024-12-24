@@ -14,7 +14,8 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stelios-X](https://github.com/Stelios-X)
+- 👨‍💻 All of my projects are available at:
+- [https://github.com/Stelios-X](https://github.com/Stelios-X)
 
 - 💬 Ask me about **C# .NET**
 
