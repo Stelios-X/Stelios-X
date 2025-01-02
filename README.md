@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **.NET C#, PHP and Odoo Python**
+- 👯 I’m looking to collaborate on **.NET C#, C++, Java and Odoo Python**
 
 - 🤝 I’m looking for help with **Python**
 
